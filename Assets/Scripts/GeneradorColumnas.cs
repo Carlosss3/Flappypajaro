@@ -17,7 +17,7 @@ public class GeneradorColumnas : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Time.time > timer) {
-			var altura = Random.Range(-3f,4f);
+			var altura = Random.Range(-3f,3f);
 			var tipocolumna = Random.Range (0,columna.Length);
 
 
