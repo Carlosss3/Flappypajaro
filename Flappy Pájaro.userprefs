@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GeneradorColumnas.cs">
+    <Files>
+      <File FileName="Assets\Scripts\jumpScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovimientoScript.cs" Line="34" Column="90" />
+      <File FileName="Assets\Scripts\scrollInfinito.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ColumnaScript.cs" Line="5" Column="29" />
+      <File FileName="Assets\Scripts\GeneradorColumnas.cs" Line="6" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
